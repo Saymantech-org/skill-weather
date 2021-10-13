@@ -1,3 +1,5 @@
-# The queried condition will occur today
-Yes, it is going to be {condition} today
-It looks like there will be {condition} today
+## The queried condition will occur today
+# Yes, it is going to be {condition} today
+بله، امروز هوا {condition} خواهد بود.
+# It looks like there will be {condition} today
+به نظر میاد امروز {condition} میشه
