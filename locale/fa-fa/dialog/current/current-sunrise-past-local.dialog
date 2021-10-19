@@ -1,2 +1,5 @@
-the sun rose at {time} today
-sunrise was at {time} today
+# the sun rose at {time} today
+امروز خورشید ساعت {time} طلوع کرده
+امروز خورشید ساعت {time} در اومده
+# sunrise was at {time} today
+طلوع خورشد امروز ساعت {time} بوده
