@@ -1,2 +1,4 @@
-the sun rose at {time} today in {location}
-sunrise was at {time} today in {location}
+# the sun will rise at {time} today in {location}
+امروز تو {location} خورشید ساعت {time} طلوع میکنه
+# sunrise will be at {time} today in {location}
+امروز طلوع خورشید تو {location} قراره ساعت {time} باشه
