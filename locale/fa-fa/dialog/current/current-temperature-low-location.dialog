@@ -1,2 +1,5 @@
-Today the temperature will be as low as {temperature} degrees {temperature_unit} in {location}.
-Temperatures can be as low as {temperature} degrees in {location}.
+# Today the temperature will be as low as {temperature} degrees {temperature_unit} in {location}.
+امروز دمای هوا تو {location} حداقل به {temperature} درجه {temperature_unit} میرسه.
+امروز هوا تو {location} تا {temperature} درجه سرد میشه.
+# Temperatures can be as low as {temperature} degrees in {location}.
+امروز هوا تو {location} میتونه تا {temperature} درجه سرد بشه.

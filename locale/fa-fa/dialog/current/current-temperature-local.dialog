@@ -1,4 +1,6 @@
-It's currently {temperature} degrees {temperature_unit}.
-It's currently {temperature} degrees.
-Right now, it's {temperature} degrees.
-
+# It's currently {temperature} degrees {temperature_unit}.
+دمای هوا الان {temperature} درجه {temperature_unit} هستش.
+# It's currently {temperature} degrees.
+دمای هوا الان {temperature} درجه است.
+# Right now, it's {temperature} degrees.
+همین الان هوا {temperature} درجه است.
