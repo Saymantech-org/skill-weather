@@ -1,4 +1,4 @@
 # Today's forecast is for a high of {high_temperature} and a low of {low_temperature}.
 حداکثر دمای پیشبینی شده برای امروز {high_temperature} درجه و حداقل دما {low_temperature} درجه است.
 برای امروز حداکثر و حداقل دمای پیشبینی شده به ترتیب {high_temperature} و {low_temperature} درجه است.
-پیشبینی ها میگن امروز قراره دمای هوا در گرم ترین حالت {high_temperature} و در سردترین حالت {low_temperature} باشه
+پیشبینی ها میگن امروز قراره دمای هوا در گرم ترین حالت {high_temperature} و در سردترین حالت {low_temperature} باشه.

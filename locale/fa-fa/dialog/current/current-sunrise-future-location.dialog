@@ -1,5 +1,5 @@
 # the sun will rise at {time} today in {location}
-امروز تو {location} خورشید ساعت {time} طلوع میکنه
-امروز تو {location} خورشید ساعت {time} درمیاد
+امروز تو {location} خورشید ساعت {time} طلوع میکنه.
+امروز تو {location} خورشید ساعت {time} درمیاد.
 # sunrise will be at {time} today in {location}
-امروز طلوع خورشید تو {location} قراره ساعت {time} باشه
+امروز طلوع خورشید تو {location} قراره ساعت {time} باشه.

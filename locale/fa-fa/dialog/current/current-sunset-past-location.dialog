@@ -1,6 +1,6 @@
 # the sun set at {time} today in {location}
-امروز تو {location} خورشید ساعت {time} غروب کرده
+امروز تو {location} خورشید ساعت {time} غروب کرده.
 
 # in {location} the sun went down at {time} today
 # sunset was at {time} today in {location}
-غروب خورشید امروز تو {location} ساعت {time} بوده
+غروب خورشید امروز تو {location} ساعت {time} بوده.

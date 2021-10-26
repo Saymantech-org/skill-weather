@@ -1,6 +1,6 @@
 # A high of {temperature} degrees {temperature_unit} is expected in {location}.
 دمای بیشینه ی {temperature} درجه {temperature_unit} برای امروز تو {location} پیشبینی میشه.
 # A high of {temperature} degrees can be expected in {location}.
-.دمای بیشینه ی {temperature} درجه برای امروز تو {location} پیشبینی میشه
+دمای بیشینه ی {temperature} درجه برای امروز تو {location} پیشبینی میشه.
 # Today a the temperature will reach {temperature} degrees in {location}.
 امروز دمای هوا تو {location} حداکثر به {temperature} درجه میرسه.
