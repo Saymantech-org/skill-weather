@@ -1,3 +1,13 @@
-It's currently {condition} and {temperature} degrees {temperature_unit}.
-It's currently {condition} and {temperature} degrees.
-Right now, it's {condition} and {temperature} degrees.
+# It's currently {condition} and {temperature} degrees {temperature_unit}.
+هوا {condition} شده و {temperature} درجه ی {temperature_unit} هستش.
+هوا {condition} شده و {temperature} درجه ی {temperature_unit} ه.
+
+# It's currently {condition} and {temperature} degrees.
+الان هوا {condition} هستش و دمای هوا هم {temperature} درجه است.
+هوا {condition} شده و {temperature} درجه است.
+هوا {condition} شده و دمای هوا {temperature} درجه است.
+
+# Right now, it's {condition} and {temperature} degrees.
+همین الان هوا {condition} ه و دما هم {temperature} درجه است.
+همین الان هوا {condition} ه، دما هم {temperature} درجه است.
+همین الان هوا {condition} هستش، دمای هوا هم {temperature} درجه است. 
