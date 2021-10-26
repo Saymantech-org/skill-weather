@@ -1,4 +1,4 @@
-## Informing that the requested condition is not in the forecast
+# # Informing that the requested condition is not in the forecast
 # No, the forecast calls for {condition} today
 نه، پیشبینی ها میگن امروز {condition} میشه.
 # No, {condition} is expected today

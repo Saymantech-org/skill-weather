@@ -1,4 +1,4 @@
-#It's currently {condition} and {temperature} degrees {temperature_unit} in {location}.
+# It's currently {condition} and {temperature} degrees {temperature_unit} in {location}.
 تو {location} هوا {condition} شده و {temperature} درجه ی {temperature_unit} هستش.
 تو {location} هوا {condition} شده و {temperature} درجه ی {temperature_unit} ه.
 

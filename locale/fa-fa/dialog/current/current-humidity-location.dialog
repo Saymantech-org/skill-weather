@@ -1,5 +1,5 @@
 # Currently, the humidity in {location} is {percent}
 الان، رطوبتِ {location} {percent} درصده.
 
-## fallback if the engine doesn't support "Haraka"
+# # fallback if the engine doesn't support "Haraka"
 # الان، رطوبت تو {location} {percent} درصده

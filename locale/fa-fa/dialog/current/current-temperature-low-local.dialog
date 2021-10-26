@@ -1,8 +1,8 @@
-#A low of {temperature} degrees {temperature_unit} is expected.
+# A low of {temperature} degrees {temperature_unit} is expected.
 دمای کمینه ی {temperature} درجه {temperature_unit} برای امروز پیشبینی میشه.
-#A low of {temperature} degrees can be expected.
+# A low of {temperature} degrees can be expected.
 دمای کمینه ی {temperature} درجه برای امروز پیشبینی میشه.
-#Today it will be as low as {temperature} degrees.
+# Today it will be as low as {temperature} degrees.
 امروز دمای هوا حداقل به {temperature} درجه میرسه.
 امروز هوا میتونه تا {temperature} درجه سرد بشه.
 امروز هوا تا {temperature} درجه سرد میشه.
