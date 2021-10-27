@@ -1,3 +1,12 @@
-Currently, the wind is from the {direction} at {speed} {speed_unit} in {location}, a good day to stay inside
-The wind is very strong from the {direction} in {location} today, {speed} {speed_unit}
-{location} will have strong winds today, {speed} {speed_unit}
+# Currently, the wind is from the {direction} at {speed} {speed_unit} in {location}, a good day to stay inside
+تو {location} الان باد با سرعت {speed} {speed_unit} از سمت {direction} می وزه. بهتره بمونی خونه.
+تو {location} الان باد با سرعت {speed} {speed_unit} از سمت {direction} می وزه. روز خوبی برای خونه موندنه.
+
+# The wind is very strong from the {direction} in {location} today, {speed} {speed_unit}
+امروز تو {location} باد شدیدی از سمت {direction} با سرعت {speed} {speed_unit} می وزه.
+امروز تو {location} باد شدیدی میاد. سرعتش هم {speed} {speed_unit} ه.
+امروز تو {location} باد شدیدی میاد. سرعتش هم {speed} {speed_unit} هستش.
+امروز تو {location} باد شدیدی میاد. سرعتش {speed} {speed_unit} و از جهت {direction} می وزه.
+
+# {location} will have strong winds today, {speed} {speed_unit}
+امروز تو {location} {location} بادهای شدیدی خواهد داشت، {speed} {speed_unit}.

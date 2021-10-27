@@ -1,2 +1,7 @@
-The wind is light in {location} at {speed} {speed_unit} from the {direction}
-In {location} today there is light wind from the {direction} at {speed} {speed_unit}
+# The wind is light in {location} at {speed} {speed_unit} from the {direction}
+تو {location} باد ملایمی با سرعت {speed} {speed_unit} از سمت {direction} می‌وزه.
+
+# In {location} today there is light wind from the {direction} at {speed} {speed_unit}
+امروز تو {location} باد ملایمی با سرعت {speed} {speed_unit} از سمت {direction} داریم.
+امروز تو {location} باد ملایمی میاد. سرعتش {speed} {speed_unit} ه و از سمت {direction} می‌وزه.
+امروز تو {location} باد ملایمی میاد. سرعتش {speed} {speed_unit} هستش و از سمت {direction} می‌وزه.
