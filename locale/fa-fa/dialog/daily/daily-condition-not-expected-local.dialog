@@ -1,3 +1,11 @@
-# Informing that an the requested condition is not in the forecast
-No, {day} the forecast calls for {condition}
-No, {condition} is expected {day}
+# # Informing that an the requested condition is not in the forecast
+# No, {day} the forecast calls for {condition}
+نه، پیشبینی ها میگن {day} {condition} میشه.
+نه، پیشبینی ها میگن روز {day} {condition} میشه.
+نه، پیشبینی ها میگن روز {day} هوا {condition} میشه.
+نه، اتفاقاً پیشبینی ها میگن روز {day} هوا {condition} میشه.
+# No, {condition} is expected {day}
+
+نه، برای {day} انتظار میره {condition} بشه.
+نه، برای {day} انتظار میره هوا {condition} بشه.
+نه، اتفاقاً برای {day} انتظار میره هوا {condition} بشه.

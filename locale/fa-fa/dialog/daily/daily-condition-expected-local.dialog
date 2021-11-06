@@ -1,3 +1,8 @@
-# Affirmative response to questions like "is it going to snow tomorrow"
-Yes, expect {condition} {day}
-Yes, the forecast calls for {condition} {day}
+# # Affirmative response to questions like "is it going to snow tomorrow"
+# Yes, expect {condition} {day}
+آره، برای {day} انتظار میره {condition} بشه.
+آره، برای {day} انتظار میره هوا {condition} بشه.
+# Yes, the forecast calls for {condition} {day}
+آره، پیشبینی ها میگن {day} {condition} میشه.
+آره، پیشبینی ها میگن روز {day} {condition} میشه.
+آره، پیشبینی ها میگن روز {day} هوا {condition} میشه.
