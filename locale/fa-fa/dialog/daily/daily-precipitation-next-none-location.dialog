@@ -1,2 +1,6 @@
-No precipitation is in the forecast for the next seven days in {location}
-In {location} none is forecasted
+# No precipitation is in the forecast for the next seven days in {location}
+هیچ بارشی برای هفت روز آینده تو {location} پیشبینی نمیشه.
+تا هفت روز تو {location} از بارش خبری نیست.
+به نظر میاد تو {location} تا هفت روز آینده بارشی نداریم.
+
+# In {location} none is forecasted

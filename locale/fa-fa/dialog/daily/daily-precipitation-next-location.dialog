@@ -1,2 +1,15 @@
-In {location} there is a {percent} chance of {precipitation} {day}
-The forecast calls for a {percent} chance of {precipitation} in {location} {day}
+# In {location} there is a {percent} chance of {precipitation} {day}
+تو {location} برای {day} {percent} درصد احتمال بارش {precipitation} وجود داره.
+تو {location} برای روز {day} {percent} درصد احتمال بارش {precipitation} وجود داره.
+تو {location} برای روز {day} {percent} درصد احتمال بارش {precipitation} هست.
+تو {location}، روز {day} {percent} درصد احتمال داره که {precipitation} بباره.
+تو {location}، روز {day} احتمال وجود باریدن {precipitation} {percent} درصده.
+تو {location}، روز {day} احتمال اینکه {precipitation} بباره {percent} درصده.
+
+# The forecast calls for a {percent} chance of {precipitation} in {location} {day}
+پیشبینی ها میگن تو {location} برای {day} احتمال {percent} درصد وجود داره که {precipitation} بباره.
+پیشبینی ها میگن تو {location} برای {day} احتمال {percent} درصد هست که {precipitation} بباره.
+پیشبینی ها میگن تو {location} برای {day} {percent} درصد احتمال باریدن {precipitation} هست.
+پیشبینی ها میگن تو {location} برای روز {day} احتمال {percent} درصد وجود داره که {precipitation} بباره.
+پیشبینی ها میگن تو {location} برای روز {day} احتمال {percent} درصد هست که {precipitation} بباره.
+پیشبینی ها میگن تو {location} برای روز {day} {percent} درصد احتمال باریدن {precipitation} هست.
