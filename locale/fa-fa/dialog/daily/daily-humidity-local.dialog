@@ -1,2 +1,13 @@
-The humidity {day} will be {percent}
-{day} the forecast calls for a humidity of {percent}
+# The humidity {day} will be {percent}
+رطوبت هوای {day}، {percent} درصده.
+رطوبت هوا، روز {day}، {percent} درصده.
+رطوبت هوای {day}، {percent} درصد میشه.
+رطوبت هوا، روز {day}، {percent} درصد میشه.
+رطوبت هوای {day}، قراره {percent} درصد بشه.
+رطوبت هوا، روز {day}، قراره {percent} درصد بشه.
+# {day} the forecast calls for a humidity of {percent}
+هواشناسی برای روز {day} رطوبت هوای {percent} درصد رُ پیشبینی میکنه.
+هواشناسی برای {day}، رطوبت هوای {percent} درصد رُ پیشبینی میکنه.
+برای روز {day} رطوبت هوای {percent} درصد پیشبینی میشه.
+برای {day}، رطوبت هوا، {percent} درصد پیشبینی میشه.
+روز {day} رطوبت هوا قراره {percent} درصد بشه.

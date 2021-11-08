@@ -1,2 +1,25 @@
-The humidity in {location} {day} will be {percent}
-{day} the forecast in {location} calls for a humidity of {percent}
+# The humidity in {location} {day} will be {percent}
+تو {location} رطوبت هوای {day}، {percent} درصده.
+تو {location} رطوبت هوا، روز {day}، {percent} درصده.
+تو {location} رطوبت هوای {day}، {percent} درصد میشه.
+تو {location} رطوبت هوا، روز {day}، {percent} درصد میشه.
+تو {location} رطوبت هوای {day}، قراره {percent} درصد بشه.
+تو {location} رطوبت هوا، روز {day}، قراره {percent} درصد بشه.
+تو شهر {location} رطوبت هوای {day}، {percent} درصده.
+تو شهر {location} رطوبت هوا، روز {day}، {percent} درصده.
+تو شهر {location} رطوبت هوای {day}، {percent} درصد میشه.
+تو شهر {location} رطوبت هوا، روز {day}، {percent} درصد میشه.
+تو شهر {location} رطوبت هوای {day}، قراره {percent} درصد بشه.
+تو شهر {location} رطوبت هوا، روز {day}، قراره {percent} درصد بشه.
+
+# {day} the forecast in {location} calls for a humidity of {percent}
+هواشناسی تو {location} برای روز {day} رطوبت هوای {percent} درصد رُ پیشبینی میکنه.
+هواشناسی تو {location} برای {day}، رطوبت هوای {percent} درصد رُ پیشبینی میکنه.
+برای روز {day} تو {location} رطوبت هوای {percent} درصد پیشبینی میشه.
+برای {day} تو {location}، رطوبت هوا، {percent} درصد پیشبینی میشه.
+تو {location} روز {day} رطوبت هوا قراره {percent} درصد بشه.
+هواشناسی تو شهر {location} برای روز {day} رطوبت هوای {percent} درصد رُ پیشبینی میکنه.
+هواشناسی تو شهر {location} برای {day}، رطوبت هوای {percent} درصد رُ پیشبینی میکنه.
+برای روز {day} تو شهر {location} رطوبت هوای {percent} درصد پیشبینی میشه.
+برای {day} تو شهر {location}، رطوبت هوا، {percent} درصد پیشبینی میشه.
+تو شهر {location} روز {day} رطوبت هوا قراره {percent} درصد بشه.
