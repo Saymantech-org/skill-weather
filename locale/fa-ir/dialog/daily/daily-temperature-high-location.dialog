@@ -1,2 +1,8 @@
-It will be as high as {temperature} degrees in {location} {day}
-{location} will have a high of {temperature} degrees {day}
+# It will be as high as {temperature} degrees in {location} {day}
+# {location} will have a high of {temperature} degrees {day}
+
+دمای بیشینه ی {temperature} درجه برای {day} تو {location} پیشبینی میشه.
+تو {location}، دمای هوای {day} حداکثر به {temperature} درجه میرسه.
+دمای بیشینه ی {temperature} درجه برای روز {day} تو {location} پیشبینی میشه.
+روز {day} تو {location} دمای هوا حداکثر به {temperature} درجه میرسه.
+روز {day} تو {location} هوا تا {temperature} درجه گرم میشه.

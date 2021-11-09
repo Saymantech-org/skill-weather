@@ -1,2 +1,6 @@
-{day} it will be as low as {temperature} degrees in {location}
-{day}, {location} will be as low as {temperature} degrees
+# {day} it will be as low as {temperature} degrees in {location}
+# {day}, {location} will be as low as {temperature} degrees
+
+دمای هوای {day} تو {location} حداقل به {temperature} درجه میرسه.
+تو {location} روز {day} هوا میتونه تا {temperature} درجه سرد بشه.
+تو {location} روز {day} هوا تا {temperature} درجه سرد میشه.

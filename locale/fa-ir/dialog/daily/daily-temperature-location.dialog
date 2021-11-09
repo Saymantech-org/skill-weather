@@ -1,2 +1,9 @@
-{day} it will be {temperature} degrees in {location}
-{day}, {location} will have a temperature of {temperature} degrees
+# {day} it will be {temperature} degrees in {location}
+دمای هوا تو {location} روز {day}، {temperature} درجه خواهد بود.
+دمای هوا تو {location} روز {day}، {temperature} درجه خواهد شد.
+دمای هوا تو {location} روز {day}، {temperature} درجه میشه.
+دمای هوا تو {location} روز {day}، قراره {temperature} درجه بشه.
+
+# {day}, {location} will have a temperature of {temperature} degrees
+روز {day} {location} دمای هوای {temperature} درجه خواهد داشت.
+روز {day} {location} قراره دمای هوای {temperature} درجه داشته باشه.
