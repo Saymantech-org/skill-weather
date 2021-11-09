@@ -1,3 +1,13 @@
-the sun will rise at {time} {day} in {location}
-in {location} sunrise will be at {time} {day}
-{day} the sun will rise at {time} in {location}
+# the sun will rise at {time} {day} in {location}
+خورشیدِ {day} تو {location}، ساعت {time} طلوع میکنه.
+خورشیدِ {day} تو {location}، ساعت {time} درمیاد.
+روز {day} تو {location}، خورشید ساعت {time} طلوع میکنه.
+
+# in {location} sunrise will be at {time} {day}
+طلوع خورشید تو {location}، روز {day} ساعت {time} است.
+طلوع خورشید تو {location}، روز {day} ساعت {time} هستش.
+
+# {day} the sun will rise at {time} in {location}
+تو {location}، روز {day} طلوع خورشید ساعت {time} است.
+تو {location}، روز {day} طلوع خورشید ساعت {time} هستش.
+تو {location}، روز {day} خورشید ساعت {time} درمیاد.

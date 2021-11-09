@@ -1,4 +1,12 @@
-the sun will set at {time} {day}
-the sun will go down at {time} {day}
-sunset will be at {time} {day}
-{day} the sun will set at {time}
+# the sun will set at {time} {day}
+خورشیدِ {day} ساعت {time} غروب میکنه.
+روز {day} خورشید ساعت {time} غروب میکنه.
+
+# sunset will be at {time} {day}
+غروب خورشید، روز {day} ساعت {time} است.
+غروب خورشید، روز {day} ساعت {time} هستش.
+
+# the sun will go down at {time} {day}
+# {day} the sun will set at {time}
+روز {day} غروب خورشید ساعت {time} است.
+روز {day} غروب خورشید ساعت {time} هستش.

@@ -1,3 +1,12 @@
-the sun will rise at {time} {day}
-sunrise will be at {time} {day}
-{day} the sun will rise at {time}
+# the sun will rise at {time} {day}
+خورشیدِ {day} ساعت {time} طلوع میکنه.
+خورشیدِ {day} ساعت {time} درمیاد.
+روز {day} خورشید ساعت {time} طلوع میکنه.
+
+# sunrise will be at {time} {day}
+طلوع خورشید، روز {day} ساعت {time} است.
+طلوع خورشید، روز {day} ساعت {time} هستش.
+# {day} the sun will rise at {time}
+روز {day} طلوع خورشید ساعت {time} است.
+روز {day} طلوع خورشید ساعت {time} هستش.
+روز {day} خورشید ساعت {time} درمیاد.
