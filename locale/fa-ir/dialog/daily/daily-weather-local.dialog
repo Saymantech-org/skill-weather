@@ -1,5 +1,16 @@
-{day} expect {condition}, with a high of {high_temperature} and a low of {low_temperature}
-Expect {condition}, with a high of {high_temperature} and a low of {low_temperature} {day}
-{day} the high will be {high_temperature} and the low {low_temperature}, with {condition}
-{day} it will be {condition} with a high of {high_temperature} and a low of {low_temperature}
-The forecast {day} is {condition} with a high of {high_temperature} and a low of {low_temperature}
+# {day} expect {condition}, with a high of {high_temperature} and a low of {low_temperature}
+# Expect {condition}, with a high of {high_temperature} and a low of {low_temperature} {day}
+# {day} the high will be {high_temperature} and the low {low_temperature}, with {condition}
+# {day} it will be {condition} with a high of {high_temperature} and a low of {low_temperature}
+# The forecast {day} is {condition} with a high of {high_temperature} and a low of {low_temperature}
+
+برای روز {day} انتظار هوای {condition} داریم. دما، حداکثر {high_temperature} درجه و حداقل {low_temperature} درجه خواهد بود.
+برای روز {day} انتظار هوای {condition} داریم. دمای بیشینه {high_temperature} درجه و دمای کمینه {low_temperature} درجه خواهد شد.
+هوای {condition} و حداکثر و حداقل دمای هوای {high_temperature} و {low_temperature} درجه برای روز {day} انتظار میره.
+هوای {day} قراره {condition} بشه و حداکثر و حداقل دمای هوای {high_temperature} و {low_temperature} درجه برای اون روز انتظار میره.
+روز {day} حداکثر و حداقل دما {high_temperature} و {low_temperature} درجه میشه و وضعیت هوا {condition} خواهد شد.
+روز {day} حداکثر دما {high_temperature} درجه و جداقل دما {low_temperature} درجه میشه و وضعیت هوا {condition} خواهد بود.
+دمای حداکثر {high_temperature} و حداقل {low_temperature} درجه و هوای {condition} برای {day} پیشبینی میشه.
+دمای حداکثر {high_temperature} و حداقل {low_temperature} درجه و هوای {condition} برای روز {day} پیشبینی میشه.
+پیشبینی ها برای {day} میگن هوای {condition} خواهیم داشت و دمای هوا هم قراره حداکثر و حداقل {high_temperature} و {low_temperature} درجه بشه.
+پیشبینی ها برای روز {day} میگن هوای {condition} خواهیم داشت و دمای هوا هم قراره حداکثر و حداقل {high_temperature} و {low_temperature} درجه بشه.
