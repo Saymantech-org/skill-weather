@@ -1,9 +1,9 @@
 # Currently the wind is a moderate {speed} {speed_unit} from the {direction} in {location}
-تو {location} الان باد قابل توجهی با سرعت {speed} {speed_unit} از سمت {direction} می‌وزه.
+تو {location} الان باد قابل توجهی با سرعت {speed} {speed_unit} از سمت {direction} می وزه.
 
 # It's a bit windy in {location} today, currently {speed} {speed_unit}
 امروز تو {location} باد متوسطی هست. الانم سرعتش {speed} {speed_unit} ه.
 امروز تو {location} باد زیادی می وزه. الانم سرعتش {speed} {speed_unit} هستش.
-امروز تو {location} باد نسبتاً قابل توجهی میاد. سرعتش {speed} {speed_unit} ه و از سمت {direction} می‌وزه.
-امروز تو {location} باد قابل توجهی میاد. سرعتش {speed} {speed_unit} هستش و از سمت {direction} می‌وزه.
+امروز تو {location} باد نسبتاً قابل توجهی میاد. سرعتش {speed} {speed_unit} ه و از سمت {direction} می وزه.
+امروز تو {location} باد قابل توجهی میاد. سرعتش {speed} {speed_unit} هستش و از سمت {direction} می وزه.
 امروز تو {location} باد قابل توجهی با سرعت {speed} {speed_unit} از سمت {direction} داریم.
