@@ -1,2 +1,4 @@
-I can't find a city named {location}. Please try again
-The city {location} is not in my memory banks.  Please try again
+# I can't find a city named {location}. Please try again
+شهری به اسم {location} پیدا نشد، لطفا دوباره امتحان کن.
+# The city {location} is not in my memory banks.  Please try again
+شهر {location} تو دیتابیس من وجود نداره، دوباره امتحان کنید.
