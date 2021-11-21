@@ -1,2 +1,9 @@
-There will be a light wind coming from the {direction} {day} at {speed} {speed_unit}
-It will not be very windy {day}
+# There will be a light wind coming from the {direction} {day} at {speed} {speed_unit}
+برای روز {day} باد ملایمی با سرعت {speed} {speed_unit} از سمت {direction} پیشبینی میشه.
+روز {day} باد ملایمی با سرعت {speed} {speed_unit} از سمت {direction} داریم.
+روز {day} باد ملایمی میاد. سرعتش {speed} {speed_unit} ه و از سمت {direction} می وزه.
+روز {day} باد ملایمی میاد. سرعتش {speed} {speed_unit} هستش و از سمت {direction} می وزه.
+# It will not be very windy {day}
+روز {day} باد شدیدی نخواهد بود.
+روز {day} باد شدیدی نخواهیم داشت.
+روز {day} قرار نیست زیاد باد بیاد.

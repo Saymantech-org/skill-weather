@@ -1,3 +1,13 @@
-The wind will be moderate, about {speed} {speed_unit} from the {direction} {day}
-The forecast calls for a moderate wind from the {direction} at {speed} {speed_unit} {day}
-You can expect a moderate wind of about {speed} {speed_unit} {day}
+# The wind will be moderate, about {speed} {speed_unit} from the {direction} {day}
+برای روز {day} وزش باد متوسطی انتظار داریم. با سرعت {speed} {speed_unit} از سمت {direction}.
+روز {day} باد متوسطی داریم. سرعتش {speed} {speed_unit} و از سمت {direction} می وزه.
+روز {day} باد متوسطی داریم. سرعتش {speed} {speed_unit} ه و از سمت {direction} می وزه.
+روز {day} باد متوسطی داریم. سرعتش {speed} {speed_unit} هستش و از سمت {direction} می وزه.
+# The forecast calls for a moderate wind from the {direction} at {speed} {speed_unit} {day}
+پیشبینی میشه روز {day} باد نسبتاً قابل توجهی با سرعت {speed} {speed_unit} از سمت {direction} داشته باشیم.
+پیشبینی میشه روز {day} باد نسبتا قابل توجهی با سرعت {speed} {speed_unit} از سمت {direction} داشته باشیم.
+پیشبینی میشه روز {day} باد متوسطی با سرعت {speed} {speed_unit} از سمت {direction} داشته باشیم.
+# You can expect a moderate wind of about {speed} {speed_unit} {day}
+برای روز {day} انتظار وزش باد متوسطی با سرعت {speed} {speed_unit} و از جهت {direction} داشته باشید.
+برای روز {day} انتظار وزش باد متوسطی با سرعت {speed} {speed_unit} و از جهت {direction} داشته باش.
+برای روز {day} انتظار وزش باد متوسطی با سرعت {speed} {speed_unit} از جهت {direction} رُ داشته باش.

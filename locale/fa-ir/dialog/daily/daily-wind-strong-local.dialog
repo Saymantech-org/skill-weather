@@ -1,2 +1,9 @@
-There will be strong wind from the {direction} of {speed} {speed_unit} {day}
-The wind will be as strong as {speed} {speed_unit} {day}
+# There will be strong wind from the {direction} of {speed} {speed_unit} {day}
+روز {day} باد شدیدی از سمت {direction} با سرعت {speed} {speed_unit} می وزه.
+روز {day} باد شدیدی میاد. سرعتش هم {speed} {speed_unit} ه.
+روز {day} باد شدیدی میاد. سرعتش هم {speed} {speed_unit} هستش.
+روز {day} باد شدیدی میاد. سرعتش {speed} {speed_unit} و از جهت {direction} می وزه.
+# The wind will be as strong as {speed} {speed_unit} {day}
+روز {day} باد شدیدی با سرعت {speed} {speed_unit} داریم.
+روز {day} باد شدیده، {speed} {speed_unit}.
+روز {day} بد جوری باد میاد، {speed} {speed_unit}.
