@@ -1,2 +1,4 @@
-# The queried condition will occur today
-Yes, the {time} forecast for predicts {condition}
+# # The queried condition will occur today
+# Yes, the {time} forecast for predicts {condition}
+بله، امروز ساعت {time} وضع هوا {condition} میشه.
+بله، برای ساعت {time} امروز، هوای {condition} پیشبینی میشه.
