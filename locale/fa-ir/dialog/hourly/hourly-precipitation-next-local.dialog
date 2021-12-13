@@ -1,2 +1,7 @@
 There is a {percent} chance of {precipitation} at {time}
 The forecast calls for a {percent} chance of {precipitation} at {time}
+
+احتمال {percent} درصدی برای {precipitation} در ساعت {time} وجود داره.
+احتمال {percent} درصدی برای بارش {precipitation} در ساعت {time} وجود داره.
+ساعت {time} احتمال {percent} درصد برای {precipitation} هست.
+ساعت {time} احتمال {percent} درصد برای بارش {precipitation} هست.

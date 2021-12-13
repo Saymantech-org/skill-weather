@@ -2,3 +2,11 @@
 Later it will be {condition} in {location}, with temperatures around {temperature}
 {location} will be around {temperature} with {condition}
 {location} will be about {temperature} degrees with {condition}
+
+
+تو {location} وضع هوا در ساعات بعدی {condition} می شه، با دمای نزدیک به {temperature} درجه.
+تو {location} وضع هوا در ساعات آینده {condition} می شه، با دمای نزدیک به {temperature} درجه.
+وضعیت هوا کمی بعد تو {location} {condition} می شه، دما هم حدود {temperature} درجه خواهد بود.
+وضعیت هوا کمی بعد تو {location} {condition} می شه، دما هم حدود {temperature} درجه خواهد شد.
+یک کم بعد هوا {condition} می شه و دما به {temperature} درجه می رسه.
+انتظار می ره وضعیت هوا تو {location} {condition} و دمای هوا حدود {temperature} درجه بشه.

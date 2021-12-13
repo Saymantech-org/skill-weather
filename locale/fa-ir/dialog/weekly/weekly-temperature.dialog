@@ -1,1 +1,9 @@
-lows will be between {low_min} and {low_max}, with highs between {high_min} and {high_max}
+# lows will be between {low_min} and {low_max}, with highs between {high_min} and {high_max}
+دمای کمینه برای این هفته بین {low_min} و {low_max} درجه و حداکثر دما بین {high_min} و {high_max} خواهد بود.
+دمای کمینه برای این هفته بین {low_min} و {low_max} درجه و حداکثر دما بین {high_min} و {high_max} خواهد شد.
+دمای کمینه برای این هفته بین {low_min} و {low_max} درجه و حداکثر دما بین {high_min} و {high_max} می شه.
+حداقل دما برای این هفته بین {low_min} و {low_max} درجه و حداکثر دما بین {high_min} و {high_max} خواهد بود.
+دمای کمینه برای این هفته بین {low_min} و {low_max} درجه و دمای بیشینه بین {high_min} و {high_max} خواهد شد.
+حداقل دما برای این هفته بین {low_min} و {low_max} درجه و حداکثر دما بین {high_min} و {high_max} می شه.
+حداقل دما برای این هفته بین {low_min} و {low_max} درجه و دمای بیشینه بین {high_min} و {high_max} متغیر خواهد بود.
+حداقل دما برای این هفته بین {low_min} و {low_max} درجه و حداکثر دما بین {high_min} و {high_max}تغییر می کنه.

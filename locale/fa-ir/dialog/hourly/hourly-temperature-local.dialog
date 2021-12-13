@@ -1,2 +1,7 @@
-It will be about {temperature} degrees in the {time}
-In the {time}, it will be {temperature} degrees
+# It will be about {temperature} degrees in the {time}
+# In the {time}, it will be {temperature} degrees
+دمای هوا ساعت {time} حدود {temperature} درجه خواهد بود.
+دمای هوا ساعت {time} حدود {temperature} درجه خواهد شد.
+دمای هوا ساعت {time} حدود {temperature} درجه می شه.
+ساعت {time} دمای هوا {temperature} درجه می شه.
+ساعت {time} دمای هوا {temperature} درجه خواهد شد.

@@ -1,4 +1,9 @@
-It will be {condition}, with temperatures near {temperature}
-Later it will be {condition} and around {temperature} degrees
-Later it will be {condition} and {temperature} degrees
-Around {temperature} degrees with {condition}
+# It will be {condition}, with temperatures near {temperature}
+# Later it will be {condition} and around {temperature} degrees
+# Later it will be {condition} and {temperature} degrees
+# Around {temperature} degrees with {condition}
+
+وضع هوا {condition} می شه، با دمای نزدیک به {temperature} درجه.
+وضعیت هوا کمی بعد {condition} می شه، دما هم حدود {temperature} درجه خواهد بود.
+یک کم بعد هوا {condition} می شه و دما به {temperature} درجه می رسه.
+وضعیت هوا {condition} و دمای هوا حدود {temperature} درجه.

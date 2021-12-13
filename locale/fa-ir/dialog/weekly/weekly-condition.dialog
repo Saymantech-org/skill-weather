@@ -1,2 +1,4 @@
 The forecast calls for {condition} on {days}
 On {days} expect {condition}
+روز های {days} هوا {condition} می شه.
+برای روز های {days} وضعیت هوا {condition} پیشبینی می شه.
