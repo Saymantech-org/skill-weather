@@ -1,2 +1,5 @@
 # Clear weather types used in handler for "is it going to be cloudy"
-(cloudy|cloud|clouds|few clouds|scattered clouds)
+# (cloudy|cloud|clouds|few clouds|scattered clouds)
+ابری
+ابر
+نیمه ابری
