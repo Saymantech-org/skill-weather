@@ -8,7 +8,7 @@
 هوای {condition} و حداکثر و حداقل دمای هوای {high_temperature} و {low_temperature} درجه تو {location} برای روز {day} انتظار میره.
 تو {location} هوای {day} قراره {condition} بشه و حداکثر و حداقل دمای هوای {high_temperature} و {low_temperature} درجه برای اون روز انتظار میره.
 تو {location} روز {day} حداکثر و حداقل دما {high_temperature} و {low_temperature} درجه میشه و وضعیت هوا {condition} خواهد شد.
-تو {location} روز {day} حداکثر دما {high_temperature} درجه و جداقل دما {low_temperature} درجه میشه و وضعیت هوا {condition} خواهد بود.
+تو {location} روز {day} حداکثر دما {high_temperature} درجه و حداقل دما {low_temperature} درجه میشه و وضعیت هوا {condition} خواهد بود.
 دمای حداکثر {high_temperature} و حداقل {low_temperature} درجه و هوای {condition} برای {day} تو {location} پیشبینی میشه.
 دمای حداکثر {high_temperature} و حداقل {low_temperature} درجه و هوای {condition} برای روز {day} تو {location} پیشبینی میشه.
 پیشبینی ها برای {day} تو {location} میگن هوای {condition} خواهیم داشت و دمای هوا هم قراره حداکثر و حداقل {high_temperature} و {low_temperature} درجه بشه.
